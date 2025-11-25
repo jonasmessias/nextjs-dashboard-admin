@@ -35,8 +35,7 @@ This is a robust **full-stack dashboard** built with **Next.js 15** and **React 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/jonasmessias/nextjs-dashboard-admin.git](https://github.com/jonasmessias/nextjs-dashboard-admin.git)
-
+git clone https://github.com/jonasmessias/nextjs-dashboard-admin
 # Enter directory
 cd nextjs-dashboard-admin
 
